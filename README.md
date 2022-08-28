@@ -1,3 +1,2 @@
 # odin-recipes
-Recipes project for The Odin Project.
-Using JavaScript to create a short recipe list containing 3 of my favorite recipes.
+The Odin Project's lesson "Project: Recipes". Using JavaScript to create a recipe site that contains 3 of my favorite recipes.
